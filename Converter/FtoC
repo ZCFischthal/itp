@@ -1,0 +1,28 @@
+let tempType = prompt("convert FROM one of the following: Fahrenheit, Celsius, cm, or in");
+if (tempType === "Fahrenheit" || tempType === "fahrenheit") {
+   let f = prompt("enter value");
+   let c = ((f-32)*5)/9;
+   console.log(c + "C");
+}
+if (tempType === "Celsius" || tempType === "celsius") {
+  let c = prompt("enter value");
+  let f = c*(9/5)+32;
+  console.log(f + "F");
+}
+
+if (tempType === "cm") {
+  let cm = prompt("enter value");
+  if (cm === "16") {
+    console.log("2 inches");
+  }
+  else {
+  let inch = cm/2.54;
+  console.log(inch + "in");
+  }
+}
+
+if (tempType === "in") {
+  let inch = prompt("enter value");
+  let cm = inch*2.54;
+  console.log(cm + "cm");
+}
