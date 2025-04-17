@@ -122,6 +122,11 @@ Redoing it was pretty easy though — this time I created the database entirely 
 
 
 
+### 4.16.2025
+Back to GUI stuff
+https://www.pythonguis.com/tutorials/create-gui-tkinter/
+Tested a bunch of stuff following above tutorial
+
 
 
 
