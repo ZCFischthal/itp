@@ -36,3 +36,4 @@ https://zcfischthal.github.io/
 
 ## Assessment
 Everyone did great! Julian helped a lot with the web design part (things being centered, having a title, black background) and Annie and Sebastian found all of the images and had the idea to rickroll everyone.
+I also did a lot — detailed above.
